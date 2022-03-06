@@ -1,0 +1,18 @@
+/*using arithmetic operators*/
+{
+    int a=21,b=10;
+    int c;
+    c=a+b;
+    printf("line1-value of c is%d\n",c);
+    c=a-b;
+    printf("line2-value of c is%d\n",c);
+    c=a*b;
+    printf("line3-the value of c is:%d\n",c);
+    c=a/b;
+    printf("line4-the value of c is :%d\n",c);
+    c=a%b;
+    printf("line5-the value of c is:%d\n",c);
+
+    return 0;
+        
+}

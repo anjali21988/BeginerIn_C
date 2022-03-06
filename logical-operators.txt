@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+/*logical operators*/
+{
+    int a;
+    a=99;
+
+    if(a>0 && a<100)
+    {
+        printf("the value of a is:%d\n",a);
+
+    }
+    
+
+    return 0;
+
+}

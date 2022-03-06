@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+/*using unary operators*/
+{
+    int a=0;
+    int b=100;
+    printf("the value of a is:%d\n",a);
+    printf("the value of b is:%d\n",b);
+    a=-(b);
+    printf("now,the value of a is:%d\n",a);
+    return 0;
+        
+}

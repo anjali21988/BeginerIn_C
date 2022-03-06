@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<ctype.h>
+int main()
+/*read a lower case character and print its uppercase equivalent*/
+{
+    int lower,upper;
+    lower=getchar();
+    upper=toupper(lower);
+    putchar(upper);
+    
+     return 0;   
+}

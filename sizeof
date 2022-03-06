@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+    /* sizeof operator*/
+    int i=10;
+    printf("integer:%d\n",sizeof(i));
+     return 0;   
+}
