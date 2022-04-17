@@ -3,5 +3,10 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"files.associations": {
+			"avg-n-numbers.C": "cpp"
+		}
+	}
 }
